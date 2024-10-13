@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 ra
 rey
 rrra
-=======
 briyani
 pizza
 upma
->>>>>>> movies
+i am ok
